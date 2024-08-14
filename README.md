@@ -19,9 +19,10 @@ Este es un sencillo administrador de tareas basado en la línea de comandos (CLI
 
 1. Clona este repositorio o descarga los archivos.
 
+```bash
 git clone https://github.com/tu_usuario/task-tracker-cli.git
-
-Navega al directorio del proyecto.
+```
+2. Navega al directorio del proyecto.
 
 cd task-tracker-cli
 
