@@ -24,38 +24,47 @@ git clone https://github.com/tu_usuario/task-tracker-cli.git
 ```
 2. Navega al directorio del proyecto.
 
+```bash
 cd task-tracker-cli
-
+```
 ## Uso
 
 El script puede ser ejecutado desde la línea de comandos utilizando el intérprete de Python. Aquí tienes ejemplos de cómo usar cada uno de los comandos disponibles:
 
 **Añadir una Tarea**
 
+```bash
 python task_tracker.py add "Descripción de la tarea"
-
+```
 **Actualizar una Tarea**
 
+```bash
 python task_tracker.py update <id> "Nueva descripción de la tarea"
-
+```
 **Eliminar una Tarea**
 
+```bash
 python task_tracker.py delete <id>
-
+```
 **Marcar una Tarea como En Progreso**
 
+```bash
 python task_tracker.py mark-in-progress <id>
-
+```
 **Marcar una Tarea como Realizado**
 
+```bash
 python task_tracker.py mark-done <id>
-
+```
 **Listar Tareas**
 
 Para listar todas las tareas:
 
+```bash
 python task_tracker.py list
-
+```
 Para listar tareas por estado (ejemplo: "Por hacer"):
 
+```bash
 python task_tracker.py list "Por hacer"
+```
