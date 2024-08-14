@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "descripcion": "Continuar el Proyecto",
-    "estado": "Por hacer",
+    "descripcion": "Probando actualizacion",
+    "estado": "Realizado",
     "creacion": "2024-08-13T00:55:44.543657",
-    "actualizacion": "2024-08-13T00:55:44.543657"
+    "actualizacion": "2024-08-13T20:50:03.293122"
   },
   {
-    "id": 2,
-    "descripcion": "Subir a git",
+    "id": 3,
+    "descripcion": "Tarea de prueba 3",
     "estado": "Por hacer",
-    "creacion": "2024-08-13T00:56:40.203494",
-    "actualizacion": "2024-08-13T00:56:40.203494"
+    "creacion": "2024-08-13T20:46:00.734913",
+    "actualizacion": "2024-08-13T20:46:00.734913"
   }
 ]
